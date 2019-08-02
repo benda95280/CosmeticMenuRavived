@@ -1,0 +1,10 @@
+#name, main, version and api are required
+name: CosmeticMenu
+main: CosmeticMenu\Main
+version: 1.0
+api: 3.0.0
+load: POSTWORLD
+author: TKGZ, BoxOfDevs(LittleBigMC, Ad5001)
+description: A CosmeticMenu plugin!
+website: 
+
