@@ -13,6 +13,13 @@ I've decided to share my work for the hard work of some (few) people, who are wo
 - Everything Works
 
 # To Do
+- [ ] Add Hat
+- [ ] Add Egg
+- [ ] Fix Particule -> Following
+- [ ] Add Stole Head of a Player
+- [ ] Add Hit a player to make him Giant/Small
+- [ ] Add Hit a player to transmform into Dino
+- [ ] Add Hit a player to Random (Him/You) Blind / drunk / Make some crazy rotation
 - [ ] Add More Fun
 
 
