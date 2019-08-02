@@ -8,7 +8,7 @@
 
 I've decided to share my work for the hard work of some (few) people, who are working hard, to make it better.
 
-# Whats new here:
+# Whats new here: 
 - Work with 3.0 API
 - Everything Works
 
